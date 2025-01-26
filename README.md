@@ -24,15 +24,6 @@ Feel free to reach out to me through any of the following platforms:
 
 ---
 
-## 🔗 Quick Links
-
-- [Main Website](https://www.shashankgoyal.com)
-- [Classical Search Algorithms Explorer](#1-classical-search-algorithms-explorer)
-- [Other Projects](https://www.shashankgoyal.com/projects#projects)
-- [Contact](https://www.shashankgoyal.com/experience#contact)
-
----
-
 ## 🛠️ Projects Currently Online
 
 ### 1. Classical Search Algorithms Explorer
