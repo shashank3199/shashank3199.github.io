@@ -36,6 +36,21 @@ An interactive web application designed to help users explore and understand the
 
 ---
 
+### 2. Adversarial Search Game Simulator
+
+**Description:**
+An interactive web application that showcases adversarial search in action. In this grid-based game, two robots compete:
+
+- **Good Robot (🤖):** Uses the MINIMAX algorithm (with adjustable depth) to navigate toward a goal (❤️) while avoiding danger.
+- **Bad Robot (👾):** Tries to intercept and zap the good robot using strategies ranging from random moves to MINIMAX with varying depths and different evaluation functions.
+
+Explore how different decision-making strategies play out in a competitive environment as each robot’s path is visually tracked on the grid.
+
+**Live Demo:**
+[Explore Adversarial Search](https://shashank3199.github.io/adversarial_search/)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
