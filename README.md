@@ -29,7 +29,7 @@ Feel free to reach out to me through any of the following platforms:
 ### 1. Classical Search Algorithms Explorer
 
 **Description:**
-An interactive web application designed to help users explore and understand the concepts of classical search algorithms: **Breadth-First Search (BFS)**, **Depth-First Search (DFS)**, and **A* Search Algorithm**. The app provides visualizations and step-by-step explanations to illustrate how each algorithm operates in different scenarios.
+An interactive web application designed to help users explore and understand the concepts of classical search algorithms: **Breadth-First Search (BFS)**, **Depth-First Search (DFS)**, and **A\* Search Algorithm**. The app provides visualizations and step-by-step explanations to illustrate how each algorithm operates in different scenarios.
 
 **Live Demo:**
 [Explore the Classical Search Algorithms](https://shashank3199.github.io/classical_search/)
@@ -48,6 +48,16 @@ Explore how different decision-making strategies play out in a competitive envir
 
 **Live Demo:**
 [Explore Adversarial Search](https://shashank3199.github.io/adversarial_search/)
+
+---
+
+### 3. Perceptron Visualizer
+
+**Description:**
+A dynamic, single-layer perceptron explorer that demonstrates how a single neuron can learn to differentiate between two classes. By adjusting the **weights** and **bias** interactively, you can see how the decision boundary changes in real-time. This tool also includes demos for basic boolean logic gates (AND, OR, NAND, NOR, XOR) and additional custom operations. It is a resource for visual learners who wish to understand perceptron fundamentals and the geometry behind linear separability.
+
+**Live Demo:**
+[Try the Perceptron Visualization](https://shashank3199.github.io/perceptron_visualization/)
 
 ---
 
