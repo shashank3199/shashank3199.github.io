@@ -61,6 +61,16 @@ A dynamic, single-layer perceptron explorer that demonstrates how a single neuro
 
 ---
 
+### 4. Genetic Algorithm Crossover & Mutation Visualizer
+
+**Description:**
+An interactive web tool demonstrating genetic algorithm operations using a simplified **Knapsack Problem** scenario. Each item has a **weight** and **value**, and the **genome** (sequence of 0s and 1s) represents whether an item is picked or not. Users can experiment with different **crossover** strategies (single-point, two-point, k-point, and uniform) and **mutation** schemes (bit-flip, swap, and scramble) to see how new solutions (offspring genomes) are generated in genetic algorithms.
+
+**Live Demo:**
+[Explore the Genetic Algorithm Visualizer](https://shashank3199.github.io/genetic_algo_visualization/)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
