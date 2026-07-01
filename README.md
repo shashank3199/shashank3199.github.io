@@ -24,7 +24,7 @@ Feel free to reach out to me through any of the following platforms:
 
 ---
 
-## 🛠️ Projects Currently Online
+<!-- ## 🛠️ Projects Currently Online
 
 ### 1. Classical Search Algorithms Explorer
 
@@ -69,7 +69,7 @@ An interactive web tool demonstrating genetic algorithm operations using a simpl
 **Live Demo:**
 [Explore the Genetic Algorithm Visualizer](https://shashank3199.github.io/genetic_algo_visualization/)
 
----
+--- -->
 
 ## 📈 GitHub Stats
 
